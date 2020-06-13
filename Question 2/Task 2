@@ -1,4 +1,4 @@
-// 2.Python: Shape Classes with Area Method
+# 2.Python: Shape Classes with Area Method
 Implement two classes:
 Rectangle:
 	The constructor for Rectangle must take two arguments that denote the length of the rectangle’s sides
